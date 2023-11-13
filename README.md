@@ -27,6 +27,9 @@ THEN the text for that event is saved in local storage
 WHEN I refresh the page
 THEN the saved events persist
 ```
+## Screenshot of Webpage
+![Screenshot of Workday Scheduler](./Assets/images/127.0.0.1_5500_5-Work-Day-Scheduler_index.html.png)
 
 ## Links
-Repo: 
+Repo: https://github.com/GDonna/5-Work-Day-Scheduler.git
+Deployed: 
