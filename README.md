@@ -32,4 +32,4 @@ THEN the saved events persist
 
 ## Links
 Repo: https://github.com/GDonna/5-Work-Day-Scheduler.git
-Deployed: 
+Deployed: https://gdonna.github.io/5-Work-Day-Scheduler/
